@@ -55,3 +55,28 @@ These files are intended for:
 ### Customer Data Schema
 ```csv
 CustomerID, First Name, Last Name, Join Date, Street Address, City, State, Phone
+```
+
+### Loan Data Schema
+```csv
+date, description, amount, principal, interest
+```
+
+## 🎓 Course Information
+
+- **Course**: CLCT4011 - Cloud Computing Security
+- **Student**: Elvin Hatamov
+- **Focus**: AWS Security Best Practices
+
+## 📝 License
+
+This project is for educational purposes only.
+
+## 👤 Author
+
+**Elvin Hatamov**
+- GitHub: [@elvinhatamov](https://github.com/elvinhatamov)
+
+---
+
+*This repository is part of a cloud computing security course assignment demonstrating AWS security principles and data management practices.*
